@@ -1,4 +1,3 @@
-# legendary-invention
 # Frontend Mentor - QR code component
 
 ## Welcome! 👋
