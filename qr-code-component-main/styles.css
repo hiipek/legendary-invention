@@ -1,0 +1,59 @@
+
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+body {
+    padding: 50px 60px 50px 60px;
+    text-align: center;
+    background-color:  hsl(212, 45%, 89%);
+}    
+
+.qr_img {
+    width: 450px;
+    height: 450px;
+    border: 25px solid hsl(0, 0%, 100%);
+    border-radius: 25px; /* robi zaokrąglone obramowania */
+    border-bottom-width: 30px;
+    display:block;
+    transform:translateY(50px);
+}
+
+.qr_img1 {
+    width: 450px;
+    height: 50px;
+    border: 18px solid hsl(0, 0%, 100%);
+    border-radius: 25px; /* robi zaokrąglone obramowania */
+    border-bottom-width: 500px;
+    
+}
+
+.improve {
+    padding: 12px;
+    font-size: 30px;
+    font-weight: 400;
+    color:  hsl(218, 44%, 22%);
+    transform:translateY(-500px);
+    
+}
+
+.scan {
+    padding: 12px;
+    font-size: 20px;
+    color: hsl(220, 15%, 55%);
+    transform:translateY(-500px);
+}
+
+.attribution { 
+    font-size: 15px; 
+    transform:translateY(-330px);
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%);    
+}
+
+
